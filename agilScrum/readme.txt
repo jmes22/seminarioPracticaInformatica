@@ -1,0 +1,3 @@
+-> De las opciones de menu el sistema solo tiene programados los puntos del 1 al 5.
+-> Los scripts de base de datos se encuentran en la carpeta SQL.
+-> El sistema aun no persistencia por eso es que se crean los objetos en memoria en el metodo crearObjetosAuxiliares().
